@@ -1,0 +1,27 @@
+/* 100 word topic paragraph */
+/* website wireframe on figma */
+
+/*semantic section AND text elemnts on each page */
+/* link page to each other with relative URLs */
+/* each page include formatted JPG, PNG, GIF, or SVG images */
+/* 2x versions of raster graphics offered with srcset sttribute */
+/* audio/video under 10mb applied */
+/* 16*16 favicon for each page */
+
+/* external CSS stylesheet */
+/* font family, size, link states */
+/* a web font applied from Google Fonts */
+/* apply CSS Flexbox OR Grid Layout */
+/* at least 1 @media query with a breakpoint to optimize layout for different browser widths */
+/* mobile layout limited to 1 column, desktop 2+ columns */
+
+/* JS externally applied */
+/* at least two DOM queries */
+/* at least one function called in response to a DOM event */
+/* the function should update page content OR change CSS properties */
+
+/* consistent navigation bar */
+/* use CSS box model (margin, padding, border) to add spacing between elements */
+/* fonts limit 2-3; colors limit 1-5 */
+/* appropriate color contrast to make text legible */
+/* ensure interactive elements are easy to identify */
